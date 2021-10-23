@@ -22,7 +22,7 @@ This short course introduces undergraduate students on the craft of scientific/a
 - [Lecture 1 slides](https://www.dropbox.com/s/fhoodusr1ekv21m/Lec-01-the-basics.pdf?dl=0)
 
 <!-- - [Short introduction quiz](https://forms.gle/g13Gu7sgNMQLo9Rs5) -->
-[Short introduction quiz](a)
+- [Short introduction quiz](a)
 
 ### Lecture 2: The scientific article
 

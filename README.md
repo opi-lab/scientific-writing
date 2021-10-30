@@ -29,4 +29,4 @@ This short course introduces undergraduate students on the craft of scientific/a
 - [Lecture 2 slides](https://www.dropbox.com/s/32lg0et22w28jlo/Lec-02-writing-a-scientific-paper.pdf?dl=0)
 
 <!-- - [Evaluate the course](https://forms.gle/YhxVVFTGRA3oCtDe8) -->
-- [Evaluate the course](b)
+- [Evaluate the course](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QUkfySiG0CVLkEv6m8H_VEdUOUQyQlIwWVRZQTYwQkZQTEhIOVEyS1IyTy4u)

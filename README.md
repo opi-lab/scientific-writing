@@ -3,7 +3,7 @@
 Andrés G. Marrugo, Ph.D.          
 *Universidad Tecnológica de Bolívar*
 
-September, 2023
+September, 2025
 
 ##  Aims and Scope
 
